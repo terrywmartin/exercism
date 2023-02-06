@@ -1,0 +1,5 @@
+
+def flatten(iterable):
+    output = []
+
+    
